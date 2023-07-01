@@ -1,10 +1,4 @@
-
-game.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TechIcons/インターネット
+Images/TechIcons/インターネット.png
   rotate: false
   xy: 544, 540
   size: 100, 100
