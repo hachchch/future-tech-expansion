@@ -70,6 +70,6 @@
                 "cost": 3000,
                 "isWonder": true,
                 "requiredTech": "携帯端末",
-                "uniques": ["Discover [スマートフォン]"],
-        },
+                "uniques": ["Discover ["スマートフォン"]"],
+        }
 ]
