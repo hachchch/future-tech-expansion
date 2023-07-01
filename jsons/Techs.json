@@ -39,20 +39,20 @@
                         {
                                 "name": "家庭用コンピューター",
                                 "row": 9,
-                                "prerequisites": ["Computer"],
+                                "prerequisites": ["Computers"],
                                 "quote": "w",
                         },
                         {
                                 "name": "アルファネット",
                                 "row":10,
-                                "prerequisites": ["Computer"],
+                                "prerequisites": ["Computers"],
                                 "quote": "w",
                         }
                 ]
         },
         {
                 "columnNumber": 17,
-                "era": "Future era",
+                "era": "Information era",
                 "techCost": 9000,
                 "techs": [
                         {
