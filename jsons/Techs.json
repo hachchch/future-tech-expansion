@@ -27,6 +27,7 @@
                                 "name": "インターネット",
                                 "row": 10,
                                 "prerequisites": ["ローカルネットワーク","家庭用コンピューター"],
+                                "uniques": ["[+2 Science] per [3] population [in all cities]"],
                                 "quote": "w",
                         }
                 ]
@@ -60,6 +61,7 @@
                                 "row": 10,
                                 "prerequisites": ["インターネット","携帯端末"],
                                 "quote": "w",
+                                "uniques": ["[+1 Science] per [1] population [in all cities]"],
                         }
                 ]
         }
