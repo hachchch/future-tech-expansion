@@ -82,6 +82,7 @@
         {
                 "name": "LANインフラストラクチャー",
                 "cost": 700,
+                "requiredTech": "ローカルネットワーク",
                 "unique": ["[+2 Production,+1 Gold] from all [Production] buildings [in this city]","[+2 Gold,+1 Production] from all [Gold] buildings [in this city]"],
         }
 ]
