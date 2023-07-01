@@ -21,11 +21,13 @@
                                 "name": "携帯端末",
                                 "row": 9,
                                 "prerequisites": ["家庭用コンピューター","Lasers"],
+                                "quote": "w",
                         },
                         {
                                 "name": "インターネット",
                                 "row": 10,
                                 "prerequisites": ["アルファネット","家庭用コンピューター"],
+                                "quote": "w",
                         }
                 ]
         },
@@ -36,13 +38,15 @@
                 "techs": [
                         {
                                 "name": "家庭用コンピューター",
-                                "row" 9,
+                                "row": 9,
                                 "prerequisites": ["Computer"],
+                                "quote": "w",
                         },
                         {
                                 "name": "アルファネット",
                                 "row":10,
                                 "prerequisites": ["Computer"],
+                                "quote": "w",
                         }
                 ]
         },
@@ -53,8 +57,9 @@
                 "techs": [
                         {
                                 "name": "スマートフォン",
-                                "row" 10,
+                                "row": 10,
                                 "prerequisites": ["インターネット","携帯端末"],
+                                "quote": "w",
                         }
                 ]
         }
