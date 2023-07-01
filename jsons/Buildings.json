@@ -48,7 +48,7 @@
                 "name": "サーバー",
                 "cost": 1000,
                 "requiredTech": "インターネット",
-                "uniques": ["[+5 gold] per [3] population [in this city]"],
+                "uniques": ["[+5 Gold] per [3] population [in this city]"],
         },
         {
                 "name": "Google",
