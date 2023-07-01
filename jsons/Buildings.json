@@ -2,6 +2,7 @@
         {
                 "name": "電柱",
                 "cost": 450,
+                "unique": ["[+17]% [Culture] from every [Broadcast Tower]","[+10]% [Production] [in this city]"],
                 "requiredTech": "半導体",
         }
 ]
