@@ -38,9 +38,11 @@
         },
         {
                 "name": "2チャンネル",
+                "replaces" "Wikiサイト",
+                "uniqueTo" "Japan",
                 "cost": 3000,
                 "uniques":["[+50]% [Culture] [in all cities]","[+5 Culture] per [3] population [in all cities]"],
-                "isWonder": true,
+                "isNationalWonder": true,
                 "quote": "こんな犯罪サイト、とっとと潰れちまえ!〜 匿名希望",
                 "requiredTech": "インターネット",
         },
@@ -56,5 +58,18 @@
                 "requiredTech": "インターネット",
                 "isNationalWonder": true,
                 "uniques": ["[+50]% [Gold] [in this city]","[+25]% [Culture] [in all cities]"],
-        }
+        },
+        {
+                "name": "Wikiサイト",
+                "cost": "1000",
+                "unique": ["[+2 Science] from every specialist [in this city]"],
+                "requiredTech": "インターネット",
+        },
+        {
+                "name": "Apple社",
+                "cost": 3000,
+                "isWonder": true,
+                "requiredTech": "携帯端末",
+                "uniques": ["Discover [スマートフォン]"]
+        },
 ]
