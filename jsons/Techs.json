@@ -13,7 +13,7 @@
                 ]
         },
         {
-                "columnNumber": 15,
+                "columnNumber": 16,
                 "era": "Information era",
                 "techCost": 8800,
                 "techs": [
@@ -30,7 +30,7 @@
                 ]
         },
         {
-                "columnNumber": 14,
+                "columnNumber": 15,
                 "era": "Information era",
                 "techCost": 7700,
                 "techs": [
@@ -47,7 +47,7 @@
                 ]
         },
         {
-                "columnNumber": 16,
+                "columnNumber": 17,
                 "era": "Future era",
                 "techCost": 9000,
                 "techs": [
