@@ -41,6 +41,7 @@
                                 "name": "家庭用コンピューター",
                                 "row": 9,
                                 "prerequisites": ["Computers"],
+                                "uniques": ["[+1 Science] from every specialist [in all cities]"],
                                 "quote": "w",
                         },
                         {
