@@ -12,4 +12,50 @@
                         }
                 ]
         },
+        {
+                "columnNumber": 15,
+                "era": "Information era",
+                "techCost": 8800,
+                "techs": [
+                        {
+                                "name": "携帯端末",
+                                "row": 9,
+                                "prerequisites": ["家庭用コンピューター","Lasers"]
+                        },
+                        {
+                                "name": "インターネット"
+                                "row": 10,
+                                "prerequisites": ["アルファネット","家庭用コンピューター"]
+                        }
+                ]
+        },
+        {
+                "columnNumber": 14,
+                "era": "Information era",
+                "techCost": 7700,
+                "techs": [
+                        {
+                                "name": "家庭用コンピューター",
+                                "row" 9,
+                                "prerequisites": ["Computer"]
+                        }
+                        {
+                                "name": "アルファネット",
+                                "row":10,
+                                "prerequisites": ["Computer"]
+                        }
+                ]
+        },
+        {
+                "columnNumber": 16,
+                "era": "Information era",
+                "techCost": 9000,
+                "techs": [
+                        {
+                                "name": "スマートフォン",
+                                "row" 10,
+                                "prerequisites": ["インターネット","携帯端末"]
+                        }
+                ]
+        }
 ]
