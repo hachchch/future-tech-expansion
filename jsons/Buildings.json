@@ -38,8 +38,8 @@
         },
         {
                 "name": "2チャンネル",
-                "replaces" "Wikiサイト",
-                "uniqueTo" "Japan",
+                "replaces": "Wikiサイト",
+                "uniqueTo": "Japan",
                 "cost": 3000,
                 "uniques":["[+50]% [Culture] [in all cities]","[+5 Culture] per [3] population [in all cities]"],
                 "isNationalWonder": true,
@@ -70,6 +70,6 @@
                 "cost": 3000,
                 "isWonder": true,
                 "requiredTech": "携帯端末",
-                "uniques": ["Discover ["スマートフォン"]"],
+                "uniques": ["Discover [スマートフォン]"],
         }
 ]
