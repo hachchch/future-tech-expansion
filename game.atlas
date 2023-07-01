@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TechIcons/インターネット
   rotate: false
-  xy: 2048, 2048
+  xy: 1484, 1944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
