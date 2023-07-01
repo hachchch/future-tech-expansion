@@ -43,7 +43,7 @@
                                 "quote": "w",
                         },
                         {
-                                "name": "アルファネット",
+                                "name": "ローカルネットワーク",
                                 "row":10,
                                 "prerequisites": ["Computers"],
                                 "quote": "w",
