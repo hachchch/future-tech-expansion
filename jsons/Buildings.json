@@ -71,5 +71,17 @@
                 "isWonder": true,
                 "requiredTech": "携帯端末",
                 "uniques": ["Discover [スマートフォン]"],
+        },
+        {
+                "name": "Youtube",
+                "cost": 4400,
+                "isWonder": true,
+                "requiredTech": "スマートフォン",
+                "uniques": ["[+350]% Great Person generation [in all cities]","[+25]% [Happiness] [in all cities]"],
+        },
+        {
+                "name": "LANインフラストラクチャー",
+                "cost": 700,
+                "unique": ["[+2 Production,+1 Gold] from all [Production] buildings [in this city]","[+2 Gold,+1 Production] from all [Gold] buildings [in this city]"],
         }
 ]
