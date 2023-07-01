@@ -8,6 +8,7 @@
         {
                 "name": "電子計算機",
                 "cost": 700,
+                "science": 3,
                 "uniques": ["[+20]% Production when constructing [Missile] units [in this city]"],
                 "requiredTech": "Computers",
         },
@@ -17,9 +18,43 @@
                 "uniques": ["[+10]% Production when constructing [Missile] units [in this city]","Free Technology","Gain a free [電子計算機] [in this city]"],
                 "requiredTech": "Computers",
                 "isWonder": true,
-                "quote": "コンピュータを信じなさい。コンピュータは貴方の友人です。〜 コンピュータ"
+                "quote": "コンピュータを信じなさい。コンピュータは貴方の友人です。〜 コンピュータ",
         },
         {
-                "name": ""
+                "name": "ゲームセンター",
+                "cost": 770,
+                "happiness": 3,
+                "gold": 1,
+                "requiredTech": "Computers",
+        },
+        {
+
+                "name": "ゲームボーイ",
+                "cost": 2310,
+                "uniques": ["[+25]% [Happiness] [in all cities]"],
+                "requiredTech": "家庭用コンピューター",
+                "isWonder": true,
+                "quote": "w",
+        },
+        {
+                "name": "2チャンネル",
+                "cost": 3000,
+                "uniques":["[+50]% [Culture] [in all cities]","[+5 Culture] per [3] population [in all cities]"],
+                "isWonder": true,
+                "quote": "こんな犯罪サイト、とっとと潰れちまえ!〜 匿名希望",
+                "requiredTech": "インターネット",
+        },
+        {
+                "name": "サーバー",
+                "cost": 1000,
+                "requiredTech": "インターネット",
+                "uniques": ["[+5 gold] per [3] population [in this city]"],
+        },
+        {
+                "name": "Google",
+                "cost": 2500,
+                "requiredTech": "インターネット",
+                "isNationalWonder": true,
+                "uniques": ["[+50]% [Gold] [in this city]","[+25]% [Culture] [in all cities]"],
         }
 ]
