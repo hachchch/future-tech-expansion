@@ -74,7 +74,7 @@
                         {
                                 "name": "先進電子工学",
                                 "row": 7,
-                                "prerequisutes": ["スマートフォン","Nuclear Fusion","Nanotechnology","Particle Physics","携帯端末"],
+                                "prerequisites": ["スマートフォン","Nuclear Fusion","Nanotechnology","Particle Physics","携帯端末"],
                                 "quotes": "w",
                                 "uniques": ["[+2 Food, +2 Production] from [Improvement] tiles [in all cities]"],
                         }
