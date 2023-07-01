@@ -1,12 +1,12 @@
 [
         {
-                "columnNumber": 12,
+                "columnNumber": 11,
                 "era": "Modern era",
                 "techCost": 4100,
                 "techs": [
                         {
                                 "name": "半導体",
-                                "row": 3,
+                                "row": 5,
                                 "prerequisites": ["Electricity"],
                                 "quote": "半導体とは、オーケストラ内で唯一の知恵遅れ、またはベーシストであり、何かをしているように見せるためにただ手を振るように言われます。",
                         }
